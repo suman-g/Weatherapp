@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_hint">City (i.e. Dallas)</string>
+    <string name="hint_country">Country (i.e. US)</string>
+    <string name="search_button">Search</string>
+    <string name="No_saved_cities_text">There are no cities to display. Search the city from the search box and save.</string>
+    <string name="Saved_Cities_Text">Saved Cities</string>
+    <string name="menu_name">Settings</string>
+</resources>
